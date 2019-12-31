@@ -1,4 +1,4 @@
-# Azure Machine Learning Studio
+# Machine Learning
 
 ## What is Machine Learning:
 Machine learning allows it to take existing data, analyze it to identify patterns, and use the results to make better predictions about new data.
